@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "ru.furnygo.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "StringReaderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

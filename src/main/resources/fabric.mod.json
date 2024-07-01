@@ -1,26 +1,26 @@
 {
 	"schemaVersion": 1,
-	"id": "unicode-nicknames",
+	"id": "unicode-arguments",
 	"version": "${version}",
-	"name": "Unicode Nicknames",
-	"description": "A mod that allows you to use non-English characters in player nicknames picker (command arguments)",
+	"name": "Unicode Arguments",
+	"description": "A mod that allows you to use non-English characters in command arguments",
 	"authors": [
 		"FurnyGo",
 		"lauron"
 	],
 	"contact": {
-		"sources": "https://github.com/FurnyGo/Unicode-Nicknames"
+		"sources": "https://github.com/FurnyGo/Unicode-Arguments"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/unicode-nicknames/icon.png",
+	"icon": "assets/unicode-arguments/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"ru.furnygo.UnicodeNicknames"
+			"ru.furnygo.UnicodeArguments"
 		]
 	},
 	"mixins": [
-		"unicode-nicknames.mixins.json"
+		"unicode-arguments.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.15.11",

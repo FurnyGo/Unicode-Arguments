@@ -1,5 +1,5 @@
-# Unicode-Nicknames
-A mod that allows you to use non-English characters in player nicknames picker (command arguments)  
+# Unicode Arguments
+A mod that allows you to use non-English characters in command arguments  
   
 Works on 1.14.4-1.21  
   

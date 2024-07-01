@@ -3,7 +3,7 @@
 	"id": "unicode-nicknames",
 	"version": "${version}",
 	"name": "Unicode Nicknames",
-	"description": "A mod that allows you to use non-English characters in player nicknames",
+	"description": "A mod that allows you to use non-English characters in player nicknames picker (command arguments)",
 	"authors": [
 		"FurnyGo",
 		"lauron"

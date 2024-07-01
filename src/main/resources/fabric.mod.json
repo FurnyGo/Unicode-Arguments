@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "unicode-nicknames",
+	"version": "${version}",
+	"name": "Unicode Nicknames",
+	"description": "A mod that allows you to use non-English characters in player nicknames",
+	"authors": [
+		"FurnyGo",
+		"lauron"
+	],
+	"contact": {
+		"sources": "https://github.com/FurnyGo/Unicode-Nicknames"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/unicode-nicknames/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ru.furnygo.UnicodeNicknames"
+		]
+	},
+	"mixins": [
+		"unicode-nicknames.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": ">=1.14.4",
+		"java": ">=8",
+		"fabric": "*"
+	}
+}

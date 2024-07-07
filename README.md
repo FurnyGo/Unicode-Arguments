@@ -1,4 +1,4 @@
-# Unicode Arguments
+# Unicode Arguments ![Downloads](https://img.shields.io/github/downloads/FurnyGo/Unicode-Arguments/total?color=red&logo=github&style=for-the-badge) [![Modrinth Downloads](https://img.shields.io/modrinth/dt/unicode-arguments?label=Modrinth&logo=modrinth&style=for-the-badge)](https://modrinth.com/mod/unicode-arguments/)  
 A mod that allows you to use non-English characters in command arguments  
   
 Works on 1.14.4-1.21  
